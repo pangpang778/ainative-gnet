@@ -1,0 +1,4 @@
+[submodule "reference/gnet-go"]
+	path = reference/gnet-go
+	url = https://github.com/panjf2000/gnet
+	branch = v2.10.0

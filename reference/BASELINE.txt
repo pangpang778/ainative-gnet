@@ -1,0 +1,2 @@
+58b59a11350707153f8c48369693ab9beba7b2fa
+gnet v2.10.0 (Steins;Gate) — https://github.com/panjf2000/gnet/releases/tag/v2.10.0

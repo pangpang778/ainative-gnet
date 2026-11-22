@@ -1,0 +1,9 @@
+/target
+**/target
+*.log
+.DS_Store
+verification/**/tmp
+reference/gnet-go/.git
+verification/evidence/
+verification/scenarios/
+verification/candidate/

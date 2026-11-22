@@ -1,0 +1,4 @@
+ts	phase	decision	why	evidence	result
+2026-11-22T14:55:00+08:00	scaffold	repo ainative-gnet created, baseline pinned gnet v2.10.0 (58b59a1)	methodology: baseline first	reference/gnet-go HEAD=58b59a11350707153f8c48369693ab9beba7b2fa	ok
+2026-11-22T15:10:00+08:00	plan	rust-anything analyze on gnet v2.10.0: 38 units, U1=ring buffer+math	tool output schema rust-anything/analyze@1	docs/audit/PLAN.md	ok
+2026-11-22T15:12:00+08:00	spec	U1 spec written: ring buffer API + 7 ported tests + 6 gates	scope frozen before coding	docs/spec-u1-ring-buffer.md	ok
